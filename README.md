@@ -7,12 +7,12 @@ Designed and deployed a scalable enterprise network in Cisco Packet Tracer featu
 
 ---
 
-### Initial Enterprise Network Topology
+## Initial Enterprise Network Topology
 Initial network layout featuring a multilayer core switch, departmental access switches, enterprise routers, and a centralized server before configuration.
 
 <img width="1912" height="1794" alt="screen2" src="https://github.com/user-attachments/assets/9fd4b8d4-b889-4be1-b997-a31292836665" />
 
-### Initial Connectivity Testing
+## Initial Connectivity Testing
 Validated physical connectivity using Packet Tracer PDUs before implementing VLANs, trunk links, and Layer 3 routing.
 
 <img width="2913" height="1808" alt="Screen1" src="https://github.com/user-attachments/assets/4121ccb5-6c31-4701-b418-2496fd8fb121" />
